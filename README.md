@@ -18,13 +18,16 @@
 
 
 ## 📊 GitHub Stats 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itemesourav&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itemesourav&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itemesourav&layout=compact&theme=dark)
 
 
 ## 🛠️ Languages & Tools
