@@ -17,11 +17,12 @@
 - AI/ML, Data Science, Data Analyst.
 
 
+
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
