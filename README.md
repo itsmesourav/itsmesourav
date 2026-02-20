@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="itsmesourav 's GitHub Stats" width="49%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsmesourav&theme=dark&hide_border=false" alt="itsmesourav 's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
