@@ -19,9 +19,17 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsmesourav&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itemesourav&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itemesourav&theme=dark&hide_border=false" />
 </p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=itemesourav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=itemesourav&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itemesourav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🛠️ Languages & Tools
