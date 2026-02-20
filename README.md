@@ -10,38 +10,42 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+- Software Engineering postgraduate from India  
+- Focused on AI-driven and data-centric solutions  
 - Always learning. Always building.
 
-
 ## 🧠 My Focus Areas
-- AI/ML, Data Science, Data Analyst.
+- AI & Machine Learning  
+- Data Science & Analytics  
 
 
 
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" height="165"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="165"/>
   <img src="https://streak-stats.demolab.com?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" height="165"/>
+</p>
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
+ ### Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## Backend
+ ### Backend
 <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## Database
+ ### Database
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## DevOps & Cloud
+ ### DevOps & Cloud
 <p align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## Tools
+ ### Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 
@@ -49,7 +53,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/developersourav/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/SOURAV101010" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/916297778727" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:itsmesouravmahapatra@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
-> Hello World.....
+> Turning ideas into intelligent systems....
 
 
 
