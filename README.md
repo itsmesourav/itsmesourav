@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineering Postgraduate from India, Passionate about crafting seamless digital experiences and exploring modern tech trends.</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=itsmesourav ">
-    <img src="https://komarev.com/ghpvc/?username=itsmesourav&style=flat-square&color=blue " alt="itsmesourav 's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=itsmesourav">
+    <img src="https://komarev.com/ghpvc/?username=itsmesourav&style=flat-square&color=blue" alt="itsmesourav profile views" />
   </a>
 </p>
 
@@ -21,14 +21,10 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" height="165"/>
+</p>
   <img src="https://streak-stats.demolab.com?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
 
 
 ## 🛠️ Languages & Tools
@@ -49,7 +45,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav &layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
