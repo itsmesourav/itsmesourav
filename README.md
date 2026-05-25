@@ -23,12 +23,19 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmesourav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+
+  <img src="https://streak-stats.demolab.com/?user=itsmesourav&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmesourav&layout=compact&theme=dark&hide_border=true&langs_count=10&include_all_commits=true&count_private=true" height="165"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmesourav&theme=darkhub&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ## 🛠️ Languages & Tools
