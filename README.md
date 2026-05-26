@@ -41,7 +41,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmesourav&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmesourav&theme=github-dark&hide_border=true" alt="Activity Graph">
 </div>
 
 ## 🛠️ Languages & Tools
