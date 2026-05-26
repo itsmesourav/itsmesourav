@@ -38,6 +38,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=itsmesourav&theme=darkhub&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmesourav&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
 ## 🛠️ Languages & Tools
 
  ### Programming Languages
